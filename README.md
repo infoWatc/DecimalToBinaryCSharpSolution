@@ -1,7 +1,11 @@
 # DecimalToBinaryCSharpSolution
-// This is a simple Decimal Base 10 number to Binary number 0 or 1.
-// example:
-// The binary conversion of base10, ascii Number, 75 // Quotient / Base = Quotient, remainder is the significant binary bit
+
+This is a simple Decimal Base 10 number to Binary number 0 or 1. 
+example:
+
+The binary conversion of base10, a counting number such as 
+75; Quotient / Base = Quotient, remainder is the significant 
+binary bit
 
 Base 10(0-9), 75 to Binary
 Least significant bit -- LSB>> 
@@ -13,4 +17,4 @@ Least significant bit -- LSB>>
              2 / 2 = 1,  r. 0, 
              1 / 2 = 0,  r. 1 <<MOST SIGNIFICANT BIT -- MSB
 
-The binary of 75 from MSB --> LSB is 1001011
+The binary of 75 from MSB --> LSB is 1001011 
